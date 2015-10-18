@@ -1,0 +1,27 @@
+{
+    "meta":{
+        "name":"Bootstrap 3 dialog",
+        "slugname":"pharinix_mod_bootstrap3_dialog",
+        "version": "1.0",
+        "autor": "Copyright 2015 javanoob@hotmail.com, Copyright (c), 2015, Pedro Pelaez (aaaaa976@gmail.com)",
+        "website": "https://github.com/PSF1/pharinix_mod_bootstrap3_dialog",
+        "description": "Make use of Bootstrap Modal more monkey-friendly.",
+        "licence": "MIT License"
+    },
+    "configuration": {},
+    "booting": [],
+    "bin_paths": [
+        "bin/"
+    ],
+    "nodetypes": {},
+    "sql": {},
+    "install": [],
+    "uninstall": [],
+    "requirements": {
+        "pharinix": "1.09.x"
+    },
+    "platforms":[
+        "win",
+        "linux"
+    ]
+}
